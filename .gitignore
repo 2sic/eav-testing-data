@@ -3,3 +3,4 @@ Logs/
 Website/App_Data/ClientDependency/
 Website/App_Data/_imagecache/
 Website/App_Data/ExtensionPackages/
+Website/DesktopModules/ToSIC_SexyContent/Upgrade/Log/*.log.resources
